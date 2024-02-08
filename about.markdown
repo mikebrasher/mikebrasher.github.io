@@ -3,16 +3,4 @@ layout: default
 title: About
 permalink: /about/
 ---
-
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
-
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+Computer scientist  with a passion for solving complex machine learning problems using deep learning, reinforcement learning  and PyTorch.  Well rounded engineer with two master’s degrees; one in computer science from UT Austin and one in aerospace from MIT.  Twelve years experience as an aerospace engineer completing  and leading projects on time and under budget.
