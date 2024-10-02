@@ -6,6 +6,9 @@ layout: default
 ---
 # Portfolio
 
+## Predict MLB games
+[Extract Transform Load (ETL) pipeline to parse historical MLB data](/baseball.markdown)
+
 ## Robonav
 Autonomous path planning via Voronoi Diagrams and the Fast Marching Method  
 [Voronoi Diagram](/voronoi.markdown)  
